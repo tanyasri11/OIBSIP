@@ -1,0 +1,30 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.button{
+    padding: 10px;
+    width: 60px;
+    height: 43px;
+    margin: 3px 0;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.row{
+    margin: 5px 0;
+}
+.row input{
+    width: 250px;
+    height: 30px;
+    font-size: 20px;
+    margin: 0;
+    padding: 2px 0px;
+    border: 4px solid black;
+    border-radius: 6px;
+}
+.row input:hover{
+    border: 4px solid rgb(126, 126, 119);
+    
+}
